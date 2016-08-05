@@ -1,6 +1,8 @@
 <a id="top"></a>
 <img src="https://raw.githubusercontent.com/prakhar1989/docker-curriculum/master/images/logo.png" alt="docker logo">
 
+### This is added by Amey for testing purpose
+
 *Learn to build and deploy your distributed applications easily to the cloud with Docker*
 
 Written and developed by [Prakhar Srivastav](http://prakhar.me).
